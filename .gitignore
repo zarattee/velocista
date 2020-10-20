@@ -21,6 +21,7 @@ fp-info-cache
 *.dsn
 *.ses
 
+#Comprate un teclado
 # Exported BOM files
 *.xml
 *.csv
